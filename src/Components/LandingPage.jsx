@@ -14,7 +14,7 @@ const LandingPage = ({handleSlideChange}) => {
                 <img src={image} alt="" />
             </div>
             <div className="center-text">
-                <h1>Find your <br /> jet</h1>
+                <h1>Find your <br /> jet now</h1>
             </div>
             <div className="button-container" >
                 <button className='button' onClick={handleSlideChange}  style={{cursor:"pointer"}}>Click Here</button>
